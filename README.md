@@ -1,4 +1,5 @@
 # dChat
 Software about chatting for our developer.
-  - Feature
+  - Feature 
+  
   Easyly, Lightly, Pretty.
