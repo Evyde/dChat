@@ -2,7 +2,7 @@
 Software about chatting for our developer.
   - Feature 
   
-  Easyly, Lightly, Pretty.
+  Easily, Lightly, Pretty.
   - Support Platform
   
   Android (developing), iOS (developing), Desktop (developing).
