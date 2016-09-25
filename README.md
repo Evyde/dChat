@@ -15,3 +15,7 @@ Software about chatting for our developer.
   - License
   
   GNU GPL V3.0. 
+  - Complie
+  
+  javac dChat/xxx/xxx
+  We will make makefile soon.
