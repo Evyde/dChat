@@ -19,18 +19,18 @@
 *不得要求以下参数：userName,userPassword,domainOfSQL,port
 *如果需要，请使用this.xxx调用。
 */
-package dChat.Interface;
+package dChat.Server.Interface;
 public interface SQL{
 	/**
 	*此处变量均为私有变量，作用可以在构造器中看到。
 	*/
-	private String userName,userPassword,domainOfSQL;
-	private int port;
+	//private String userName,userPassword,domainOfSQL;
+	//private int port;
 
 	/**
 	*此处变量为实例当中临时用的，但为了封装，private。
 	*/
-	private String nameOfDatabase,nameOfTable;
+	//private String nameOfDatabase,nameOfTable;
 
 	/**
 	*无参数构造器，需要把私有变量设置为如下默认数值：
@@ -40,7 +40,7 @@ public interface SQL{
 	*port：3306
 	*nameOfDatabase：root
 	*/
-	public SQL();
+	//public SQL();
 	
 	/**
 	*带参数的构造器，需要根据参数设置私有变量。

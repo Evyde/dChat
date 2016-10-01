@@ -1,0 +1,20 @@
+package dChat.Server.Class;
+public class SQL implements dChat.Server.Interface.SQL {
+	private String userName,userPassword,domainOfSQL;
+	private int port;
+
+	
+	private String nameOfDatabase,nameOfTable;
+
+	
+	public SQL(){;}
+	
+	
+	public SQL(String userName,String userPassword,String domainOfSQL,int port,String nameOfDatabase){;}
+	
+	
+	public boolean creatDatabase(String databaseName){return true;}
+	
+	
+
+}
